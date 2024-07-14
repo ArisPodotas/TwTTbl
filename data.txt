@@ -1,0 +1,129 @@
+phylum	subphylum	class	order	genus	AC	
+Ascomycota	Pezizomycotina	Orbiliomycetes	Orbiliales	Arthrobotrys	NC_041444.1	Arthrobotrys musiformis
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Calonectria	NC_046826.1	Calonectria ilicicola 8
+Ascomycota	Pezizomycotina	Sordariomycetes	Sordariales	Chaetomium	NC_015893.1	Chaetomium thermophilum 3
+Ascomycota	Pezizomycotina	Eurotiomycetes	Onygenales	Coccidioides	MW722166.1	Coccidioides immitis 13
+Ascomycota	Pezizomycotina	Eurotiomycetes	Onygenales	Coccidioides	MW722165.1	Coccidioides posadasii 11
+Ascomycota	Pezizomycotina	Sordariomycetes	Diaporthales	Cryphonectria	KT428651.1	Cryphonectria parasitica 10
+Ascomycota	Pezizomycotina	Sordariomycetes	Microascales	Endoconidiophora	MK026449.1	Endoconidiophora resinifera
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Epichloe	NC_032064.1	Epichloe festucae
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Epichloe	NC_032063.1	Epichloe typhina
+Ascomycota	Pezizomycotina	Leotiomycetes	Erysiphales	Erysiphe	NC_056146.1	Erysiphe necator
+Ascomycota	Pezizomycotina	Leotiomycetes	Erysiphales	Golovinomyces	NC_056148.1	Golovinomyces cichoracearum
+Ascomycota	Pezizomycotina	Lecanoromycetes	Caliciales	Heterodermia	NC_040159.1	Heterodermia speciosa
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Metarhizium	MW448543.1	Metarhizium album
+Ascomycota	Pezizomycotina	Leotiomycetes	Helotiales	Monilinia	NC_056195.1	Monilinia fructicola 4
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Ophiocordyceps	NC_034659.1	Ophiocordyceps sinensis
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	N/A	NC_049089.1	Ophiocordycipitaceae sp
+Ascomycota	Pezizomycotina	Sordariomycetes	Xylariales	Pestalotiopsis	NC_031828.1	Pestalotiopsis fici
+Ascomycota	Pezizomycotina	Sordariomycetes	Sordariales	Podospora	NC_001329.3	Podospora anserina 1
+Ascomycota	Pezizomycotina	Sordariomycetes	Sordariales	Podospora	NC_040227              	Podospora comata 5
+Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pyronema	NC_029745.1	Pyronema omphalodes
+Ascomycota	Pezizomycotina	Leotiomycetes	Helotiales	Sclerotinia	NC_025200.1	Sclerotinia borealis
+Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Tuber	NC_053885.1	Tuber calosporum
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Candida	NC_015814.1	Candida frijolesensis
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Candida	NC_005253.2	Candida parapsilosis
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Kazachstania	NC_036748.1	Kazachstania sinensis
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Magnusiomyces	NC_024093.1	Magnusiomyces ingens
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Millerozyma	NC_013255.1	Millerozyma farinosa
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Ogataea	NC_022165.1	Ogataea philodendri
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Ogataea	NC_022151.1	Ogataea thermophila
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	NC_031511.1	Saccharomyces arboricola
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	NC_031513.1	Saccharomyces bayanus
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	NC_031514.1	Saccharomyces cariocanus
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	MW367976.1	Saccharomyces cerevisiae YJM1078
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	CP004115.1	Saccharomyces paradoxus
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	NC_018044.1	Saccharomyces paradoxus x cerevisiae
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	NC_031515.1	Saccharomyces pastorianus
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	NC_012145.1	Saccharomyces pastorianus Weihenstephan 3470
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomyces	NC_031512.1	Saccharomyces uvarum
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomycodes	NC_037703.1	Saccharomycodes ludwigii
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saprochaete	MN317087.1	Saprochaete ingens
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saprochaete	MK373801.1	Saprochaete suaveolens
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Schizosaccharomyces	NC_004312.1	Schizosaccharomyces octosporus
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Torulaspora	NC_036376.1	Torulaspora microellipsoides
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Torulaspora	NC_036375.1	Torulaspora quercuum
+Ascomycota	Taphrinomycotina	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomyces	NC_001326.1	Schizosaccharomyces pombe
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Amanita	NC_045201.1	Amanita thiersii
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Blastosporella	NC_039440.1	Blastosporella zonata 19
+Basidiomycota	Agaricomycotina	Agaricomycetes	Cantharellales	Cantharellus	NC_037757.1	Cantharellus lutescens
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Clavaria	NC_056336.1	Clavaria fumosa
+Basidiomycota	Agaricomycotina	Agaricomycetes	Phallales	Dictyophora	NC_050041.1	Dictyophora indusiata
+Basidiomycota	Agaricomycotina	Agaricomycetes	Hymenochaetales	Fomitiporia	NC_044676.1	Fomitiporia mediterranea
+Basidiomycota	Agaricomycotina	Agaricomycetes	Polyporales	Ganoderma	MN356101.1	Ganoderma sp. TQC-2021a
+Basidiomycota	Agaricomycotina	Agaricomycetes	Hymenochaetales	Inonotus	NC_044740.1	Inonotus obliquus
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Myochromella	NC_039441.1	Myochromella boudieri
+Basidiomycota	Agaricomycotina	Agaricomycetes	Polyporales	Phlebia	NC_020148.1	Phlebia radiata
+Basidiomycota	Agaricomycotina	Agaricomycetes	Hymenochaetales	Porodaedalea	NC_044675.1	Porodaedalea pini
+Basidiomycota	Agaricomycotina	Agaricomycetes	Cantharellales	Rhizoctonia	NC_021436.1	Rhizoctonia solani
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Termitomyces	MH725795.1	Termitomyces sp 12
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Termitomyces	MG783568.1	Termitomyces sp. T132
+Basidiomycota	Agaricomycotina	Agaricomycetes	Polyporales	Trametes	NC_054272.1	Trametes coccinea
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Tricholoma	NC_046499.1	Tricholoma bakamatsutake
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Tricholoma		Tricholoma terreum
+Basidiomycota	Pucciniomycotina	Pucciniomycetes	Pucciniales	Austropuccinia	NC_044121.1	Austropuccinia psidii
+Basidiomycota	Pucciniomycotina	Microbotryomycetes	Microbotryales	Microbotryum	NC_020354.1	Microbotryum cf. violaceum BFL-2013
+Basidiomycota	Pucciniomycotina	Microbotryomycetes	Microbotryales	Microbotryum	NC_020353.1	Microbotryum lychnidis-dioicae
+Blastocladiomycota	N/A	Blastocladiomycetes	Blastocladiales	Allomyces	NC_001715.1	Allomyces macrogynus 16
+Chytridiomycota	N/A	Chytridiomycetes	Rhizophydiales	Rhizophydium	NC_003053.1	Rhizophydium sp. 136
+Mucoromycota	Glomeromycotina	Glomeromycetes	Diversisporales	Gigaspora	NC_016684.1	Gigaspora margarita
+Mucoromycota	Glomeromycotina	Glomeromycetes	Diversisporales	Gigaspora	NC_016985.1	Gigaspora rosea
+Mucoromycota	Glomeromycotina	Glomeromycetes	Glomerales	Glomus	JX065416.1	Glomus sp. DAOM 229456
+Mucoromycota	Glomeromycotina	Glomeromycetes	Glomerales	Glomus	KC164355.1	Glomus sp. DAOM 240422
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Termitomyces	Termitomyces sp. T132	MG783568.1
+Mucoromycota	Mucoromycotina	Mucoromycetes	Mucorales	Absidia	Absidia glauca	NC_036158.1
+Blastocladiomycota	N/A	Blastocladiomycetes	Blastocladiales	Blastocladiella	Blastocladiella emersonii	NC_011360.1
+Blastocladiomycota	N/A	Blastocladiomycetes	Blastocladiales	Blastocladiella	Blastocladiella sp.	MN873040.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Cantharellales	Cantharellus	Cantharellus appalachiensis	NC_037756.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Cantharellales	Cantharellus	Cantharellus cibarius	NC_020368.1
+Ascomycota	Pezizomycotina	Sordariomycetes	Microascales	Ceratocystis	Ceratocystis colombiana	NC_056160.1
+Zoopagomycota	Entomophthoromycotina	Entomophthoromycetes	Entomophthorales	Conidiobolus	Conidiobolus sp.	MN640580.1
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Cordyceps	Cordyceps cicadae	NC_041489.1
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Cyberlindnera	Cyberlindnera suaveolens	NC_022167.1
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Fusarium	Fusarium pseudograminearum	NC_046566.1
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Fusarium	Fusarium pseudonygamai	MT010925.1
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Fusarium	Fusarium ramigenum	MT010919.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Polyporales	Ganoderma	Ganoderma leucocontextum	NC_037937.1
+Mucoromycota	Glomeromycotina	Glomeromycetes	Glomerales	Glomus	Glomus cerebriforme	NC_022144.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Laccaria	Laccaria amethystina	NC_042772.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Macrolepiota	Macrolepiota fuliginosa	NC_045202.1
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Magnusiomyces	Magnusiomyces magnusii	NC_020043.1
+Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Magnusiomyces	Magnusiomyces tetraspermus	NC_024094.1
+Basidiomycota	Ustilaginomycotina	Malasseziomycetes	Malasseziales	Malassezia	Malassezia obtusa	KY911091.1
+Basidiomycota	Ustilaginomycotina	Malasseziomycetes	Malasseziales	Malassezia	Malassezia yamatoensis	KY911098.1
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Metarhizium	Metarhizium rileyi	NC_047289.1
+Ascomycota	Pezizomycotina	Leotiomycetes	Helotiales	Monilinia	Monilinia laxa	NC_051483.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Moniliophthora	Moniliophthora perniciosa	NC_005927.1
+Chytridiomycota	N/A	Monoblepharidomycetes	Monoblepharidales	Monoblepharella	Monoblepharella sp. JEL15	NC_004624.1
+Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Nectria	Nectria cinnabarina	NC_030252.1
+Cryptomycota	N/A	N/A	N/A	Paramicrosporidium	Paramicrosporidium saccamoebae	CM008827.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Polyporales	Phanerochaete	Phanerochaete carnosa	MT090080.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Hymenochaetales	Phellinus	Phellinus lamaoensis	NC_044677.1
+Mucoromycota	Mucoromycotina	Mucoromycetes	Mucorales	Phycomyces	Phycomyces blakesleeanus	NC_027730.1
+Ascomycota	Taphrinomycotina	Pneumocystidomycetes	N/A	Pneumocystis	Pneumocystis canis	MT726217.1
+Ascomycota	Taphrinomycotina	Pneumocystidomycetes	N/A	Pneumocystis	Pneumocystis carinii	NC_013660.2
+Ascomycota	Taphrinomycotina	Pneumocystidomycetes	N/A	Pneumocystis	Pneumocystis jirovecii	NC_020331.1
+Ascomycota	Taphrinomycotina	Pneumocystidomycetes	N/A	Pneumocystis	Pneumocystis murina	NC_020332.1
+Ascomycota	Taphrinomycotina	Pneumocystidomycetes	N/A	Pneumocystis	Pneumocystis oryctolagi	MT726213.1
+Ascomycota	Taphrinomycotina	Pneumocystidomycetes	N/A	Pneumocystis	Pneumocystis sp. 'ludovicianus'	MT726212.1
+Ascomycota	Taphrinomycotina	Pneumocystidomycetes	N/A	Pneumocystis	Pneumocystis sp. 'macacae'	MT726214.1
+Ascomycota	Taphrinomycotina	Pneumocystidomycetes	N/A	Pneumocystis	Pneumocystis wakefieldiae	MT726211.1
+Mucoromycota	Mortierellomycotina	Mortierellomycetes	Mortierellales	Podila	Podila verticillata	NC_006838.1
+Mucoromycota	Glomeromycotina	Glomeromycetes	Glomerales	Rhizophagus	Rhizophagus fasciculatus	NC_029185.1
+Mucoromycota	Glomeromycotina	Glomeromycetes	Glomerales	Rhizophagus	Rhizophagus irregularis	NC_014489.1
+Mucoromycota	Glomeromycotina	Glomeromycetes	Glomerales	Rhizophagus	Rhizophagus sp. DAOM 213198	KF591216.1
+Basidiomycota	Pucciniomycotina	Microbotryomycetes	Sporidiobolales	Rhodotorula	Rhodotorula mucilaginosa	NC_036340.1
+Ascomycota	Pezizomycotina	Leotiomycetes	Helotiales	Rhynchosporium	Rhynchosporium secalis	NC_023128.1
+Cryptomycota	N/A	N/A	N/A	Rozella	Rozella allomycis	NC_021611.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Hymenochaetales	Schizopora	Schizopora paradoxa	NC_044679.1
+Ascomycota	Taphrinomycotina	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomyces	Schizosaccharomyces cryophilus	NC_040930.1
+Ascomycota	Taphrinomycotina	Schizosaccharomycetes	Schizosaccharomycetales	Schizosaccharomyces	Schizosaccharomyces japonicus	NC_004332.1
+Chytridiomycota	N/A	Chytridiomycetes	Spizellomycetales	Spizellomyces	Spizellomyces punctatus	NC_003052.1
+Chytridiomycota	N/A	Chytridiomycetes	Spizellomycetales	Spizellomyces	Spizellomyces sp. 'palustris'	NC_042879.1
+Basidiomycota	Ustilaginomycotina	Ustilaginomycetes	Ustilaginales	Sporisorium	Sporisorium reilianum SRZ2	FQ311469.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Polyporales	Taiwanofungus	Taiwanofungus camphoratus	NC_042771.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Tephrocybe	Tephrocybe rancida	NC_039442.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Polyporales	Trametes	Trametes hirsuta	NC_037239.1
+Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricales	Tricholoma	Tricholoma saponaceum	NC_046502.1
+Basidiomycota	Ustilaginomycotina	Ustilaginomycetes	Ustilaginales	Ustilago	Ustilago maydis	NC_008368.1
+Zoopagomycota	Kickxellomycotina	Harpellomycetes	Harpellales	Zancudomyces	Zancudomyces culisetae	NC_006837.1

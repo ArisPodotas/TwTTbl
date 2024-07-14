@@ -16,7 +16,7 @@ This program parses the tree in a Nexus format and changes all the bootstrap val
 
 ## Example
 
-Value: 24.5/77 -> "*/ "
+Value: 24.5/77 -> "\*/ "
 Value: 88/77 -> ""
-Value: 24.5/18.8-> "*/*"
-Value: 100/48.8-> " /*"
+Value: 24.5/18.8-> "\*/\*"
+Value: 100/48.8-> " /\*"

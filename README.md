@@ -26,3 +26,5 @@ Value: 100/48.8-> " /\*"
 ## Formatting
 
 The text is changed to a monospaced font and needs align labels enabled to represent the table in a readable way so that the collumns in the names are aligned
+
+The data.txt file is for a preview of the format that the taxonomic groups have to be outside of your phylogenetic tree for the program to work properly

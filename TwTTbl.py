@@ -11,8 +11,9 @@ import re
 import random
 
 def main():
-	repr(path = "./Thesis materials/Trees/MIXTURES/Clustal/Iqtree/", tree = "STRIPPED_ORFLESS_CLUSTAL_RAW-alignment.nex.treefile", out = "C:/Users/aPodo/Documents/University/Research/ORFLESS AP B+S.nex.treefile")
-	repr(path = "./Thesis materials/Trees/MIXTURES/Muscle/Iqtree/", tree = "RRRL CDS MUSCLE-alignment.nex.treefile", out = "C:/Users/aPodo/Documents/University/Research/RRRL AP B+S.nex.treefile")
+	repr(path = "./", tree = "test.txt", out = "./TWtest.nex.treefile")
+	# repr(path = "./Thesis materials/Trees/MIXTURES/Clustal/Iqtree/", tree = "STRIPPED_ORFLESS_CLUSTAL_RAW-alignment.nex.treefile", out = "C:/Users/aPodo/Documents/University/Research/ORFLESS AP B+S.nex.treefile")
+	# repr(path = "./Thesis materials/Trees/MIXTURES/Muscle/Iqtree/", tree = "RRRL CDS MUSCLE-alignment.nex.treefile", out = "C:/Users/aPodo/Documents/University/Research/RRRL AP B+S.nex.treefile")
 
 def repr(path: str, tree: str, out: str, *args, **kwargs):
 	# Input in a format that's mutable

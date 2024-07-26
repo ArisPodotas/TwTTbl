@@ -11,9 +11,7 @@ import re
 import random
 
 def main():
-	repr(path = "./", tree = "test.txt", out = "./TWtest.nex.treefile")
-	# repr(path = "./Thesis materials/Trees/MIXTURES/Clustal/Iqtree/", tree = "STRIPPED_ORFLESS_CLUSTAL_RAW-alignment.nex.treefile", out = "C:/Users/aPodo/Documents/University/Research/ORFLESS AP B+S.nex.treefile")
-	# repr(path = "./Thesis materials/Trees/MIXTURES/Muscle/Iqtree/", tree = "RRRL CDS MUSCLE-alignment.nex.treefile", out = "C:/Users/aPodo/Documents/University/Research/RRRL AP B+S.nex.treefile")
+	repr(path = "./", tree = "test.nex.treefile", out = "./TWtest.nex.treefile")
 
 def repr(path: str, tree: str, out: str, *args, **kwargs):
 	# Input in a format that's mutable
@@ -52,7 +50,7 @@ def repr(path: str, tree: str, out: str, *args, **kwargs):
 	def nested(pattern: str, grouping: str, symbol: str, spacing: int, iterator: list, subst: str, condition: str, query: str, num: int, *capture_groups, output = replacer, ids = {r"Ascomycota": r"          " + r"+| | '", r"Basidiomycota": r"          " + r" |+| '", r"Nothing": r"          " + r" | |+'"}, data: str = "./data.txt", **any):
 		"""Please name your groups."""
 		if re.search(grouping, query, flags = re.IGNORECASE):
-			parameter = r""
+			parameter = r"'"
 			if subst:
 				for parenthesis in re.search(subst, query).groups():
 					parameter += parenthesis
@@ -63,7 +61,7 @@ def repr(path: str, tree: str, out: str, *args, **kwargs):
 				parameter += symbol
 			if data:
 				parameter += lookup(taxon = pattern.group('genus'), condition = ids, data = data)
-			output.write(re.sub(subst, parameter, query, flags = re.IGNORECASE))
+			output.write(re.sub(subst, r"\t" + parameter, query, flags = re.IGNORECASE))
 			for sh, sl in enumerate(tree_file):
 				if re.search(condition, sl):
 					iterator.append(re.sub(pattern.group('whole'), parameter, iterator[len(iterator) - 1], flags = re.IGNORECASE))
@@ -72,7 +70,8 @@ def repr(path: str, tree: str, out: str, *args, **kwargs):
 		# print(f"{holder}", end = " ")	# Matches only the begin taxa black names
 		if match := re.search(r"^\t(?P<whole>'(?P<genus>(?:[a-zA-Z0-9-_\.]*?)* )(?P<species>(?:[a-zA-Z0-9-_\.]*?\s)*)(?P<Gene>(?:[a-zA-Z0-9-_\.]*?\s)+)(?P<intron>I\d{0,2} )(?P<orf>[a-zA-Z0-9-_\s\.]*?)')", line, flags = re.IGNORECASE):
 			# print(match.group(2))
-			mangrep = r"(?P<genus>^\t'(?:[a-zA-Z0-9-_\.]*?)* )(?P<species>(?:[a-zA-Z0-9-_\.]*?\s)*)(?:(?:[a-zA-Z0-9-_\.]*?\s)+)(?:I\d{0,2} )(?:[a-zA-Z0-9-_\s\.]*?)'"
+			# To change the ouput change the capture groups of the following string and the regular expression itself
+			mangrep = r"^\t'(?:(?:[a-zA-Z0-9-_\.]*?)* )(?:(?:[a-zA-Z0-9-_\.]*?\s)*)(?:(?:[a-zA-Z0-9-_\.]*?\s)+)(?:I\d{0,2} )(?:[a-zA-Z0-9-_\s\.]*?)'"
 			transfer = nested(num = transfer, pattern = match, query = line, spacing = longest + padding, symbol = r" |+| | | ", grouping = r"RTM'", iterator = var, condition = r"tree tree_1", subst = mangrep)
 			transfer = nested(num = transfer, pattern = match, query = line, spacing = longest + padding, symbol = r"+| | | | ", grouping = r"RTME'", iterator = var, condition = r"tree tree_1", subst = mangrep)
 			transfer = nested(num = transfer, pattern = match, query = line, spacing = longest + padding, symbol = r" | |+| | ", grouping = r"RTE'", iterator = var, condition = r"tree tree_1", subst = mangrep)
@@ -85,12 +84,11 @@ def repr(path: str, tree: str, out: str, *args, **kwargs):
 		elif re.search(r'\tset.*"Arial"', line):
 			replacer.write(re.sub(r'Arial', r"Monospaced", line))
 		elif thing := re.search(r'\tset \w+\.fontSize=(\d\d?)', line):
-			replacer.write(re.sub(thing.group(1), r"16", line))
+			replacer.write(re.sub(thing.group(1), r"24", line))
 		else:
 			replacer.write(line)
 	replacer.close()
 
 if __name__ == "__main__":
 	main()
-
 

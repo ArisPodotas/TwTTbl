@@ -1,0 +1,243 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=140;
+	taxlabels
+	'Allomyces macrogynus _100                         '
+	'Amanita thiersii _101                             '
+	'Amanita thiersii _102                             '
+	'Arthrobotrys musiformis _103                      '
+	'Arthrobotrys musiformis _104                      '
+	'Austropuccinia psidii _105                        '
+	'Austropuccinia psidii _106                        '
+	'Blastosporella zonata _107                        '
+	'Blastosporella zonata _108                        '
+	'Blastosporella zonata _109                        '
+	'Blastosporella zonata _110                        '
+	'Calonectria ilicicola _111                        '
+	'Candida frijolesensis _112                        '
+	'Candida parapsilosis _113                         '
+	'Cantharellus lutescens _114                       '
+	'Chaetomium thermophilum _115                      '
+	'Chaetomium thermophilum _116                      '
+	'Chaetomium thermophilum _117                      '
+	'Chaetomium thermophilum _118                      '
+	'Chaetomium thermophilum _119                      '
+	'Chaetomium thermophilum _120                      '
+	'Clavaria fumosa _121                              '
+	'Coccidioides immitis _122                         '
+	'Coccidioides immitis _123                         '
+	'Coccidioides immitis _124                         '
+	'Coccidioides immitis _125                         '
+	'Coccidioides posadasii _126                       '
+	'Coccidioides posadasii _127                       '
+	'Coccidioides posadasii _128                       '
+	'Coccidioides posadasii _129                       '
+	'Cryphonectria parasitica _130                     '
+	'Cryphonectria parasitica _131                     '
+	'Cryphonectria parasitica _132                     '
+	'Cryphonectria parasitica _133                     '
+	'Cryphonectria parasitica _134                     '
+	'Cryphonectria parasitica _135                     '
+	'Cryphonectria parasitica _136                     '
+	'Cryphonectria parasitica _137                     '
+	'Dictyophora indusiata _138                        '
+	'Endoconidiophora resinifera _139                  '
+	'Endoconidiophora resinifera _140                  '
+	'Epichloe festucae _141                            '
+	'Epichloe festucae _142                            '
+	'Epichloe festucae _143                            '
+	'Epichloe festucae _144                            '
+	'Epichloe typhina _145                             '
+	'Epichloe typhina _146                             '
+	'Erysiphe necator _147                             '
+	'Erysiphe necator _148                             '
+	'Erysiphe necator _149                             '
+	'Erysiphe necator _150                             '
+	'Erysiphe necator _151                             '
+	'Erysiphe necator _152                             '
+	'Erysiphe necator _153                             '
+	'Erysiphe necator _154                             '
+	'Erysiphe necator _155                             '
+	'Erysiphe necator _156                             '
+	'Erysiphe necator _157                             '
+	'Erysiphe necator _158                             '
+	'Fomitiporia mediterranea _159                     '
+	'Ganoderma sp. TQC-2021a _160                      '
+	'Ganoderma sp. TQC-2021a _161                      '
+	'Ganoderma sp. TQC-2021a _162                      '
+	'Glomus sp. DAOM 240422 _163                       '
+	'Golovinomyces cichoracearum _164                  '
+	'Golovinomyces cichoracearum _165                  '
+	'Golovinomyces cichoracearum _166                  '
+	'Golovinomyces cichoracearum _167                  '
+	'Golovinomyces cichoracearum _168                  '
+	'Golovinomyces cichoracearum _169                  '
+	'Golovinomyces cichoracearum _170                  '
+	'Heterodermia speciosa _171                        '
+	'Inonotus obliquus _172                            '
+	'Magnusiomyces ingens _173                         '
+	'Microbotryum cf. violaceum BFL-2013 _174          '
+	'Microbotryum cf. violaceum BFL-2013 _175          '
+	'Microbotryum cf. violaceum BFL-2013 _176          '
+	'Microbotryum lychnidis-dioicae _177               '
+	'Microbotryum lychnidis-dioicae _178               '
+	'Millerozyma farinosa _179                         '
+	'Monilinia fructicola _180                         '
+	'Monilinia fructicola _181                         '
+	'Monilinia fructicola _182                         '
+	'Monilinia fructicola _183                         '
+	'Monilinia fructicola _184                         '
+	'Myochromella boudieri _185                        '
+	'Ogataea philodendri _186                          '
+	'Ogataea thermophila _187                          '
+	'Ogataea thermophila _188                          '
+	'Ophiocordyceps sinensis _189                      '
+	'Ophiocordyceps sinensis _190                      '
+	'Ophiocordyceps sinensis _191                      '
+	'Ophiocordyceps sinensis _192                      '
+	'Ophiocordyceps sinensis _193                      '
+	'Ophiocordyceps sinensis _194                      '
+	'Ophiocordycipitaceae sp. _195                     '
+	'Ophiocordycipitaceae sp. _196                     '
+	'Pestalotiopsis fici _197                          '
+	'Phlebia radiata _198                              '
+	'Phlebia radiata _199                              '
+	'Podospora anserina _200                           '
+	'Podospora anserina _201                           '
+	'Podospora comata _202                             '
+	'Porodaedalea pini _203                            '
+	'Pyronema omphalodes _204                          '
+	'Rhizoctonia solani _205                           '
+	'Rhizoctonia solani _206                           '
+	'Rhizophydium sp. 136 _207                         '
+	'Saccharomyces arboricola _208                     '
+	'Saccharomyces cerevisiae YJM1078 _209             '
+	'Saccharomyces paradoxus  _210                     '
+	'Saccharomyces paradoxus  x _211                   '
+	'Saccharomyces pastorianus _212                    '
+	'Saccharomyces pastorianus Weihenstephan 3470 _213 '
+	'Saccharomycodes ludwigii _214                     '
+	'Saprochaete ingens _215                           '
+	'Saprochaete ingens _216                           '
+	'Saprochaete suaveolens _217                       '
+	'Schizosaccharomyces octosporus _218               '
+	'Schizosaccharomyces octosporus _219               '
+	'Schizosaccharomyces pombe _220                    '
+	'Termitomyces sp.  _221                            '
+	'Termitomyces sp. _222                             '
+	'Termitomyces sp. _223                             '
+	'Termitomyces sp. _224                             '
+	'Termitomyces sp. _225                             '
+	'Termitomyces sp. _226                             '
+	'Termitomyces sp. _227                             '
+	'Termitomyces sp. _228                             '
+	'Termitomyces sp. _229                             '
+	'Termitomyces sp. _230                             '
+	'Termitomyces sp. _231                             '
+	'Termitomyces sp. T132 _232                        '
+	'Termitomyces sp. T132 _233                        '
+	'Torulaspora quercuum _234                         '
+	'Trametes coccinea _235                            '
+	'Tricholoma bakamatsutake _236                     '
+	'Tricholoma bakamatsutake _237                     '
+	'Tuber calosporum _238                             '
+	'podospora anserina _239                           '
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (	'Chaetomium thermophilum _116                      ':1.193904,((((((((	'Chaetomium thermophilum _120                      ':1.370346,	'Saprochaete suaveolens _217                       ':1.346879)[&label="*/*"]:0.054689,	'Coccidioides posadasii _128                       ':1.149244)[&label="/*"]:0.161767,	'Ophiocordyceps sinensis _193                      ':1.312349)[&label="*/*"]:0.051317,(	'Arthrobotrys musiformis _104                      ':1.189601,	'Glomus sp. DAOM 240422 _163                       ':1.43755)[&label="*/*"]:0.283451)[&label="/*"]:0.102227,(((((	'Cantharellus lutescens _114                       ':1.241282,(	'Trametes coccinea _235                            ':0.422877,	'Ganoderma sp. TQC-2021a _161                      ':0.459904)[&label=""]:0.430873)[&label="*/*"]:0.149682,	'Porodaedalea pini _203                            ':1.143737)[&label="*/*"]:0.126411,	'Amanita thiersii _102                             ':1.198941)[&label="/*"]:0.105328,(((	'Torulaspora quercuum _234                         ':1.078571,	'Ogataea philodendri _186                          ':1.265863)[&label="/*"]:0.279154,((	'Saprochaete ingens _216                           ':1.21295,	'Endoconidiophora resinifera _140                  ':1.150268)[&label="*/*"]:0.084428,(	'Rhizophydium sp. 136 _207                         ':1.494795,	'Cryphonectria parasitica _135                     ':1.476275)[&label="*/*"]:0.162415)[&label="*/*"]:0.030531)[&label="/*"]:0.077838,(	'Phlebia radiata _199                              ':1.363226,	'Clavaria fumosa _121                              ':0.743098)[&label=""]:0.51509)[&label="*/*"]:0.055499)[&label="/*"]:0.085649,(	'Rhizoctonia solani _206                           ':1.242629,	'Ganoderma sp. TQC-2021a _162                      ':1.094776)[&label="/*"]:0.289179)[&label="*/*"]:0.014946)[&label="*/*"]:0.033627,((((	'Blastosporella zonata _110                        ':1.599115,	'Rhizoctonia solani _205                           ':1.248054)[&label="*/*"]:0.101026,	'Termitomyces sp. _230                             ':1.376424)[&label="*/*"]:0.081523,(	'Inonotus obliquus _172                            ':1.052872,	'Chaetomium thermophilum _115                      ':1.61929)[&label="*/*"]:0.033379)[&label="/*"]:0.134487,(((((	'Monilinia fructicola _182                         ':1.439668,((	'Microbotryum lychnidis-dioicae _178               ':0.154066,	'Microbotryum cf. violaceum BFL-2013 _176          ':0.165734)[&label=""]:0.94925,	'Endoconidiophora resinifera _139                  ':1.392761)[&label="/*"]:0.246275)[&label="/*"]:0.139413,	'Ogataea thermophila _188                          ':1.182859)[&label="*/*"]:0.037288,	'Coccidioides immitis _124                         ':0.912195)[&label="*/*"]:3.0E-6,(	'Cryphonectria parasitica _136                     ':0.996472,	'Coccidioides immitis _125                         ':0.879527)[&label="/*"]:0.39271)[&label="/*"]:0.115552,(	'Termitomyces sp. _231                             ':1.188796,	'Erysiphe necator _158                             ':0.950531)[&label="/*"]:0.182439)[&label="*/*"]:0.010763)[&label="/*"]:0.033873)[&label="/*"]:0.043053,((((((((((((	'Allomyces macrogynus _100                         ':0.389053,	'Termitomyces sp. _227                             ':0.33246)[&label=""]:0.179688,(	'Austropuccinia psidii _106                        ':0.520942,(	'Cryphonectria parasitica _131                     ':0.348839,	'Cryphonectria parasitica _133                     ':0.439965)[&label=""]:0.17401)[&label="*/*"]:0.056482)[&label="*/*"]:0.089799,((	'Calonectria ilicicola _111                        ':0.21896,((	'Coccidioides immitis _123                         ':0.061164):0.0,	'Podospora anserina _200                           ':0.266396)[&label=""]:0.056025)[&label=""]:0.127178,	'Golovinomyces cichoracearum _169                  ':0.53567)[&label=""]:0.244204)[&label="*/*"]:0.060235,	'Chaetomium thermophilum _119                      ':0.539138)[&label=""]:0.133868,((	'Epichloe typhina _146                             ':0.334898,	'Schizosaccharomyces octosporus _219               ':0.621139)[&label=""]:0.237721,	'Ophiocordyceps sinensis _190                      ':0.713597)[&label=""]:0.154295)[&label="*/*"]:0.054963,((	'Chaetomium thermophilum _118                      ':0.330605,	'podospora anserina _239                           ':0.33368)[&label=""]:0.231048,(	'Monilinia fructicola _183                         ':0.500934,	'Monilinia fructicola _184                         ':0.434511)[&label=""]:0.182695)[&label=""]:0.245671)[&label=""]:0.152155,((((((	'Amanita thiersii _101                             ':0.16593,	'Termitomyces sp.  _221                            ':0.151407)[&label=""]:0.260966,	'Heterodermia speciosa _171                        ':0.586899)[&label=""]:0.144412,	'Millerozyma farinosa _179                         ':0.682843)[&label=""]:0.134463,	'Schizosaccharomyces octosporus _218               ':0.83704)[&label=""]:0.21776,	'Termitomyces sp. T132 _233                        ':0.787474)[&label=""]:0.185528,(((((((	'Blastosporella zonata _109                        ':0.103769,	'Termitomyces sp. _226                             ':0.229492)[&label=""]:0.556858,	'Monilinia fructicola _181                         ':0.622664)[&label=""]:0.257872,((	'Candida frijolesensis _112                        ':0.828966,	'Dictyophora indusiata _138                        ':0.683075)[&label="*/*"]:0.112893,	'Candida parapsilosis _113                         ':0.641787)[&label=""]:0.145806)[&label=""]:0.18828,(	'Tricholoma bakamatsutake _237                     ':0.965329,	'Tuber calosporum _238                             ':0.87915)[&label=""]:0.317898)[&label=""]:0.139152,	'Microbotryum cf. violaceum BFL-2013 _175          ':1.089948)[&label="/*"]:0.126495,((	'Ophiocordyceps sinensis _192                      ':0.809331,	'Pyronema omphalodes _204                          ':0.914602)[&label="*/*"]:0.168293,	'Termitomyces sp. _229                             ':1.001064)[&label=""]:0.184445)[&label="/*"]:0.120555,	'Erysiphe necator _152                             ':1.648334)[&label="/*"]:0.150597)[&label="/*"]:0.031925)[&label="/*"]:0.04237,((((((	'Austropuccinia psidii _105                        ':0.675534,((	'Microbotryum cf. violaceum BFL-2013 _174          ':0.05984,	'Microbotryum lychnidis-dioicae _177               ':0.088632)[&label=""]:0.499413,	'Termitomyces sp. _225                             ':0.420489)[&label=""]:0.124397)[&label=""]:0.266684,(((	'Chaetomium thermophilum _117                      ':0.31663,	'Cryphonectria parasitica _132                     ':0.354261)[&label="*/*"]:0.065356,	'Erysiphe necator _150                             ':0.372474)[&label=""]:0.202311,	'Magnusiomyces ingens _173                         ':0.62134)[&label=""]:0.119036)[&label="*/*"]:0.066641,(((	'Cryphonectria parasitica _130                     ':0.603615,	'Termitomyces sp. _223                             ':0.491366)[&label=""]:0.098925,(	'Erysiphe necator _147                             ':0.414102,(	'Golovinomyces cichoracearum _164                  ':0.251443,	'Ophiocordyceps sinensis _189                      ':0.173934)[&label=""]:0.173168)[&label=""]:0.111066)[&label="*/*"]:0.066943,	'Tricholoma bakamatsutake _236                     ':0.679677)[&label=""]:0.138737)[&label="*/*"]:0.044131,((	'Erysiphe necator _149                             ':0.446625,	'Ophiocordycipitaceae sp. _196                     ':0.887053)[&label=""]:0.239567,(	'Erysiphe necator _154                             ':0.75286,(	'Erysiphe necator _155                             ':0.385387,	'Golovinomyces cichoracearum _170                  ':0.52381)[&label=""]:0.273835)[&label="*/*"]:0.070527)[&label="/*"]:0.034613)[&label="/*"]:0.065461,	'Ophiocordycipitaceae sp. _195                     ':1.114962)[&label=""]:0.132118,((	'Coccidioides posadasii _127                       ':0.48689,(	'Epichloe festucae _141                            ':0.058542,	'Epichloe typhina _145                             ':0.045889)[&label=""]:0.428512)[&label=""]:0.221719,(	'Ogataea thermophila _187                          ':0.663446,	'Saprochaete ingens _215                           ':0.550287)[&label=""]:0.121298)[&label=""]:0.239818)[&label="/*"]:0.13086)[&label="*/*"]:2.0E-6,	'Cryphonectria parasitica _137                     ':1.627074)[&label="*/*"]:0.064833,((((((	'Arthrobotrys musiformis _103                      ':0.314277,(	'Erysiphe necator _148                             ':0.321669,	'Golovinomyces cichoracearum _166                  ':0.294963)[&label=""]:0.160346)[&label=""]:0.166355,	'Erysiphe necator _153                             ':0.490505)[&label=""]:0.100665,(((	'Blastosporella zonata _107                        ':0.349931,(	'Coccidioides immitis _122                         ':0.002434,	'Coccidioides posadasii _126                       ':2.0E-6)[&label=""]:0.358785)[&label="*/*"]:0.049496,(	'Termitomyces sp. _222                             ':0.059458,	'Termitomyces sp. T132 _232                        ':0.057009)[&label=""]:0.202603)[&label=""]:0.242436,	'Golovinomyces cichoracearum _167                  ':0.576815)[&label="/*"]:0.066083)[&label="*/*"]:0.054495,	'Epichloe festucae _143                            ':0.444836)[&label="/*"]:0.063021,((((	'Epichloe festucae _142                            ':0.375136,((	'Epichloe festucae _144                            ':0.20214,	'Ophiocordyceps sinensis _191                      ':0.114835)[&label="*/*"]:0.040613,	'Termitomyces sp. _228                             ':0.143901)[&label=""]:0.21146)[&label=""]:0.136898,(	'Erysiphe necator _156                             ':0.44049,((	'Erysiphe necator _157                             ':0.147589,	'Pestalotiopsis fici _197                          ':0.194188)[&label=""]:0.155322,(	'Podospora anserina _201                           ':0.015248,	'Podospora comata _202                             ':0.021016)[&label=""]:0.425846)[&label=""]:0.161523)[&label="*/*"]:0.074392)[&label=""]:0.109999,((	'Erysiphe necator _151                             ':0.376691,	'Golovinomyces cichoracearum _168                  ':0.436142)[&label="*/"]:0.149428,	'Monilinia fructicola _180                         ':1.373078)[&label="*/*"]:0.074933)[&label="*/*"]:0.042238,	'Ganoderma sp. TQC-2021a _160                      ':0.485674)[&label="*/*"]:0.038539)[&label="/*"]:0.068879,((((	'Blastosporella zonata _108                        ':0.141165,	'Myochromella boudieri _185                        ':0.195182)[&label=""]:0.074717,(	'Phlebia radiata _198                              ':0.189025,	'Termitomyces sp. _224                             ':0.240353)[&label=""]:0.044973)[&label=""]:0.196699,	'Schizosaccharomyces pombe _220                    ':0.345233)[&label=""]:0.164571,	'Golovinomyces cichoracearum _165                  ':0.60257)[&label=""]:0.199148)[&label="/*"]:0.18918)[&label="/*"]:0.113624,(((	'Saccharomyces arboricola _208                     ':0.002896,	'Saccharomyces cerevisiae YJM1078 _209             ':0.003102)[&label=""]:0.037563,	'Saccharomycodes ludwigii _214                     ':0.157004)[&label=""]:0.454925,((	'Saccharomyces paradoxus  _210                     ':2.0E-6,	'Saccharomyces paradoxus  x _211                   ':2.0E-6)[&label="/*"]:4.1E-4,(	'Saccharomyces pastorianus _212                    ':2.0E-6,	'Saccharomyces pastorianus Weihenstephan 3470 _213 ':2.0E-6)[&label="*/"]:2.0E-6)[&label=""]:0.560263)[&label=""]:0.333245)[&label="*/*"]:0.01871,(	'Ophiocordyceps sinensis _194                      ':1.4761,	'Fomitiporia mediterranea _159                     ':1.015583)[&label="/*"]:0.29616)[&label="*/*"]:0.009323)[&label="*/*"]:0.050239,	'Coccidioides posadasii _129                       ':1.805275)[&label="*/*"]:0.242224,	'Cryphonectria parasitica _134                     ':1.31882);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#0066cc;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="Monospaced";
+	set branchLabels.fontSize=16;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=699;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=16.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="Monospaced";
+	set nodeLabels.fontSize=16;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=16.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=16.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Monospaced";
+	set tipLabels.fontSize=16;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
+
